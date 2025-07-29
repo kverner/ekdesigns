@@ -1,7 +1,7 @@
 baseURL = 'https://eandkdesigns.com/'
 languageCode = 'en-us'
 title = 'E&K Designs'
-theme = 'ananke'
+theme = 'hugoplate'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
