@@ -5,3 +5,8 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+  subtitle = 'subtitle'
+  [params.contact]
+    email = 'info@eandkdesigns.com'
+    phone = '+1 404-999-5555'
