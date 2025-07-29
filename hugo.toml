@@ -2,6 +2,6 @@ baseURL = 'https://eandkdesigns.com/'
 languageCode = 'en-us'
 title = 'E&K Designs'
 theme = 'ananke'
-caches:
-  images:
-    dir: :cacheDir/images
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
