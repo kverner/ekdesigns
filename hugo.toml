@@ -2,3 +2,11 @@ baseURL = 'https://eandkdesigns.com/'
 languageCode = 'en-us'
 title = 'E&K Designs'
 theme = 'ananke'
+params:
+  contact: kate
+    email: kate@eandkdesigns.com
+    phone: +1 999-999-9999
+  subtitle: E&K subtitle goes here
+caches:
+  images:
+    dir: :cacheDir/images
